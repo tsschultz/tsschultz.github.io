@@ -1,12 +1,13 @@
 ---
 layout: default
-title: Pet Scale
-nav_order: 2
+title: Koi Feeder
+parent: Projects
+nav_order: 1
 ---
 
-# Mechanical Keyboard Switch
-**Class: Advanced Engineering Design Graphics**
-**UC Berkeley** | *August 2023 - December 2023*
+# Automatic Koi Fish Feeder
+**Class: Introduction to Product Development**
+**UC Berkeley** | *January 2023 - May 2023*
 
 ## Overview
 

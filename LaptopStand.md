@@ -2,7 +2,7 @@
 layout: default
 title: Adjustable Laptop Stand
 parent: Projects
-nav_order: 1
+nav_order: 2
 ---
 
 # Adjustable and Collapsible Laptop Stand
