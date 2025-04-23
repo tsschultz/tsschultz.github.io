@@ -14,6 +14,8 @@ nav_order: 1
 ## Key Contributions
 
 ### Key Features and Desgin Elements
+- **Customization**
+- 
 
 ### Final Product
 

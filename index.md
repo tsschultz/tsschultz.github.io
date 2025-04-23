@@ -5,5 +5,11 @@ nav_order: 1
 ---
 About Me
 ---
-Hello! My name is **Ty Schultz**, and I am a **Mechanical Engineer** with a passion for mechanical design and creating innovative solutions to help those in need 
-# (reword so it's less broad. something tied to biomechanics or health industry...)
+
+Image here
+**Ty Schultz**
+**Mechanical Engineering | UC Berkeley**
+
+I am a recent graduate from the **University of California**, **Berkeley**, with a Bachelor's in **Mechanical Engineering**. My career goal is to design, manufacture, and build innovative machines with a passionate team to positively contribute to the lives of others. My interests include mechanical design, home imporovement solutions, and medical technology.
+
+I also enjoy playing the bass guitar, rock climbing, learning languages, and spending quality time with friends and family.

@@ -24,6 +24,8 @@ During the summer of 2023, I had the privilege of working at **Genius Traffic Sy
 ## Challenges
 Learning an entirely new field (PCBs) and learning a new program (Altium Designer) on my own
 
+Technical communication through Thai
+
 ### PCB Samples
 
 ## Skills & Tools
