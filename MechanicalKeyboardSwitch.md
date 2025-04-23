@@ -22,12 +22,16 @@ The mechanical switch is made up of 6 parts including the bottom and top housing
 I hand animated the mechanical switch showing how the mechanism completes a circuit when pressed. I also animated how the entire keyboard is assembled with a real typing test demonstration.
 
 ### Final Models
-## Switch
+## Switch (Creo)
 **image of mechanical switch here**
 
+## Keycaps (Creo)
 
-### Key Features and Design Elements
+## PCB (3ds Max)
+
+### Challenges
+The biggest challenge for this project was work and time management. We originally had three group members but one dropped the class halfway through the project timeline. My other partner and I needed to quickly adjust to our increased workload while meeting the project goals within our 
 
 ## Skills
 - **Software:** Creo, 3DS Max
-- **Team Stuff:** Leadership skills, time management
+- **Soft Skills:** Leadership, Time management

@@ -18,6 +18,10 @@ In this course, our team was challenged to design and fabricate an innovative co
 For this project, my partner and I designed the original concept using **SolidWorks**, created precision components by **water jetting** aluminum sheet metal, and oversaw the **fabrication** process to ensure quality and accuracy.
 
 ## Final CAD Model
+<div style="display: flex; justify-content: center, gap: 20px;">
+    <img src="assets/CADlaptopstandcollapsed.png" al="CADlaptopstandcollapsed" style="height: 275px; width: auto;">
+    <img src="assets/CADlaptopstandopen.png" alt="CADlaptopstandopen" style="height: 325px, width: auto;">
+</div>
 
 ## Key Features and Design Elements
 - **Cross-Link Mechanism:** This mechanism allows the used to easily adust the stand to fit their laptop's length and fold it back into a compact form for portability. The cross-link design ensures smooth operation while maintaining structural integrity.
@@ -29,7 +33,11 @@ For this project, my partner and I designed the original concept using **SolidWo
 - **Sleek & Compact Design:** We prioritized aesthetics and functionality by designing a laptop stand that is not only visually appealing but also nearly seamless when folded. This ensures a high-quality, modern look while maintaining pracitcality.
 
 ## Final Product
-(img here)
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="assets/laptopstandclosed.jpg" alt="Laptop stand closed" style="height: 300px; width: auto;">
+    <img src="assets/laptopstandopen.jpg" alt="Laptop stand open" style="height: 300px; width: auto;">
+</div>
+
 Through this project, we successfully delivered a functional, user-friendly laptop stand that combines portbaility, adjustability, and durability. It reflects our ability to integrate **mechanical design** principles, **material selection**, and **ergonomic** considerations into a practical consumer product.
 
 
