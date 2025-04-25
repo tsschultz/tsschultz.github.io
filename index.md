@@ -5,7 +5,7 @@ nav_order: 1
 ---
 About Me
 ---
-[LinkedIn](https://www.linkedin.com/in/ty-schultz/)[**Resume (PDF)**] | (assets/basicResume.pdf) {: .btn .btn-primary}
+[LinkedIn](https://www.linkedin.com/in/ty-schultz/)[**Resume (PDF)**] |(assets/basicResume.pdf){: .btn .btn-primary}
 
 **Mechanical Engineer** with a passion for mechanical design and medical technology
 
