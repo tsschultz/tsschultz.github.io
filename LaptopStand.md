@@ -19,8 +19,8 @@ For this project, my partner and I designed the original concept using **SolidWo
 
 ## Final CAD Model
 <div style="display: flex; justify-content: center, gap: 20px;">
-    <img src="assets/CADlaptopstandcollapsed.png" al="CADlaptopstandcollapsed" style="height: 275px; width: auto;">
-    <img src="assets/CADlaptopstandopen.png" alt="CADlaptopstandopen" style="height: 325px, width: auto;">
+    <img src="assets/CADstandcollapsed.png" al="CADlaptopstandcollapsed" style="height: 275px; width: auto;">
+    <img src="assets/CADstandopen.png" alt="CADlaptopstandopen" style="height: 325px, width: auto;">
 </div>
 
 ## Key Features and Design Elements
@@ -34,8 +34,8 @@ For this project, my partner and I designed the original concept using **SolidWo
 
 ## Final Product
 <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="assets/laptopstandclosed.jpg" alt="Laptop stand closed" style="height: 300px; width: auto;">
-    <img src="assets/laptopstandopen.jpg" alt="Laptop stand open" style="height: 300px; width: auto;">
+    <img src="assets/standclosed.jpg" alt="Laptop stand closed" style="height: 300px; width: auto;">
+    <img src="assets/standopen.jpg" alt="Laptop stand open" style="height: 300px; width: auto;">
 </div>
 
 Through this project, we successfully delivered a functional, user-friendly laptop stand that combines portbaility, adjustability, and durability. It reflects our ability to integrate **mechanical design** principles, **material selection**, and **ergonomic** considerations into a practical consumer product.

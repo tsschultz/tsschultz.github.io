@@ -7,7 +7,7 @@ nav_order: 1
 
 # R&D Intern - PCB Design
 **Genius Traffic System Co. Ltd (GeTS)**
-**UC Berkeley** | *May 2023 - July 2023*
+**Bangkok, Thailand** | *May 2023 - July 2023*
 
 ---
 
@@ -22,7 +22,7 @@ During the summer of 2023, I had the privilege of working at **Genius Traffic Sy
 - **CPU Tester:** The CPU tester's function, as the name suggests, was for the company to check their machines were working properly. This was by far the most complicated design with a large number of different electical components and new footprints that needed to be made. 
 
 ## Challenges
-Learning an entirely new field (PCBs) and learning a new program (Altium Designer) on my own
+**change this** Learning an entirely new field (PCBs) and learning a new program (Altium Designer) on my own
 
 Technical communication through Thai
 

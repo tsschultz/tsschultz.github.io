@@ -10,7 +10,7 @@ nav_order: 1
 **UC Berkeley** | *January 2023 - May 2023*
 
 ## Overview
-Our team was tasked with addressing a need, not a solution,... design a product and develope the basis for a company. This included analyzing competing products, reviewing patents, intterating and improving upon known solutions, surveying potential customers, and present our final product.
+**change this section** Our team was tasked with addressing a need, not a solution, ... design a product and develope the basis for a company. This included analyzing competing products, reviewing patents, intterating and improving upon known solutions, surveying potential customers, and present our final product.
 
 Research and development, conceptualization and design, prototyping, production and launch
 
