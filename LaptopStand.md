@@ -2,7 +2,7 @@
 layout: default
 title: Adjustable Laptop Stand
 parent: Projects
-nav_order: 2
+nav_order: 1
 ---
 
 # Adjustable and Collapsible Laptop Stand
@@ -18,9 +18,9 @@ In this course, our team was challenged to design and fabricate an innovative co
 For this project, my partner and I designed the original concept using **SolidWorks**, created precision components by **water jetting** aluminum sheet metal, and oversaw the **fabrication** process to ensure quality and accuracy.
 
 ## Final CAD Model
-<div style="display: flex; justify-content: center, gap: 20px;">
-    <img src="assets/CADstandcollapsed.png" al="CADlaptopstandcollapsed" style="height: 275px; width: auto;">
-    <img src="assets/CADstandopen.png" alt="CADlaptopstandopen" style="height: 275px, width: auto;">
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="assets/CADstandcollapsed.png" al="CADlaptopstandcollapsed" style="height: 250px; width: auto;">
+    <img src="assets/CADstandopen.png" alt="CADlaptopstandopen" style="height: 250px, width: auto;">
 </div>
 
 ## Key Features and Design Elements

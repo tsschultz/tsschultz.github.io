@@ -2,7 +2,7 @@
 layout: default
 title: Koi Feeder
 parent: Projects
-nav_order: 1
+nav_order: 2
 ---
 
 # Automatic Koi Fish Feeder
