@@ -16,4 +16,4 @@ I am a recent graduate from the **University of California**, **Berkeley**, with
 
 In also enjoy playing the bass guitar, rock climbing, 3D printing unique trinkets, learning languages, and spending quality time with friends and family.
 
-[LinkedIn](https://www.linkedin.com/in/ty-schultz/) | [**Resume (PDF)**] (/assets/basicResume.pdf){: .btn .btn-primary}
+[LinkedIn](https://www.linkedin.com/in/ty-schultz/) | [**Resume (PDF)**](/assets/basicResume.pdf){: .btn .btn-primary }
