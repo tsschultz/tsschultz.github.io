@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GeTS
+title:  "Internship: GeTS"
 nav_enabled: true
 nav_order: 2
 ---
