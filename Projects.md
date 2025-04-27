@@ -2,7 +2,7 @@
 layout: default
 title: Projects
 nav_enabled: true
-nav_order: 3
+nav_order: 2
 has_children: true
 ---
 

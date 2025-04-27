@@ -1,6 +1,8 @@
 ---
 layout: default
 title: GeTS
+nav_enabled: true
+nav_order: 2
 ---
 
 # R&D Intern - PCB Design
