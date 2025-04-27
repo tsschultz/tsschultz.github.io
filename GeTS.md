@@ -2,7 +2,6 @@
 layout: default
 title: GeTS
 parent: Work Experience
-nav_order: 1
 ---
 
 # R&D Intern - PCB Design

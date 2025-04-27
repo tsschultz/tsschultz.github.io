@@ -1,10 +1,10 @@
 title: Ty Schultz's Portfolio
 description: This portfolio exhibits my work and experience from my time in university, internships, and personal projects.
 theme: just-the-docs
+nav_enabled: false
 
 url: https://tsschultz.github.io
 
 aux_links:
-  Template Repository: https://github.com/tsschultz/tsschultz.github.io
   LinkedIn: https://www.linkedin.com/in/ty-schultz/
-  Github: https//github.com/tsschultz/
+  Github: https://github.com/tsschultz
