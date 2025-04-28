@@ -9,16 +9,12 @@ nav_order: 1
     
 </div>
 
-{: .mr-12}
-[LinkedIn](https://www.linkedin.com/in/ty-schultz/){: .btn .btn-outline} [Resume (PDF)](/assets/basicResume.pdf){: .btn .btn-outline}
-
-
 Ty Schultz
 {: .fs-7 .fw-500 .text-center}
 
-Recent graduate from the University of California, Berkeley, with a Bachelor's in **Mechanical Engineering**. Career goal is to design, manufacture, and build innovative machines with a passionate team to positively contribute to the lives of others. Passionate about mechanical design, home imporovement solutions, and medical technology.
+Recent graduate from the University of California, Berkeley, with a Bachelor's in **Mechanical Engineering**. Passionate about mechanical design, home imporovement solutions, and medical technology. Career goal is to design, manufacture, and build innovative machines with a passionate team to positively contribute to the lives of others.
 
-
+[LinkedIn](https://www.linkedin.com/in/ty-schultz/){: .btn .btn-outline .nr-4} [Resume (PDF)](/assets/basicResume.pdf){: .btn .btn-outline}
 
 In my free time I enhoy playing the bass guitar, rock climbing, 3D printing home improvement gadgets, and learning languages.
 
