@@ -4,17 +4,15 @@ layout: home
 nav_enabled: true
 nav_order: 1
 ---
-About Me
----
-
-[LinkedIn](https://www.linkedin.com/in/ty-schultz/){: .btn .btn-outline .text-center .mr-4}
-[Resume (PDF)](/assets/basicResume.pdf){: .btn .btn-outline .text-center}
-
-
 <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="assets/profheadshot.jpg" style="height: 250px; width: auto;">
     
 </div>
+
+[LinkedIn](https://www.linkedin.com/in/ty-schultz/){: .btn .btn-outline}
+{: .text-center}
+[Resume (PDF)](/assets/basicResume.pdf){: .btn .btn-outline}
+
 
 Ty Schultz
 {: .fs-7 .fw-500 .text-center}
