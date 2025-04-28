@@ -5,12 +5,12 @@ nav_enabled: true
 nav_order: 1
 ---
 <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="assets/profheadshot.jpg" style="height: 250px; width: auto;">
+    <img src="assets/profheadshot.jpg" style="height: 200px; width: auto;">
     
 </div>
 
-[LinkedIn](https://www.linkedin.com/in/ty-schultz/){: .btn .btn-outline}
-{: .text-center}
+{: .mr-12}
+[LinkedIn](https://www.linkedin.com/in/ty-schultz/){: .btn .btn-outline .mr-4}
 [Resume (PDF)](/assets/basicResume.pdf){: .btn .btn-outline}
 
 
