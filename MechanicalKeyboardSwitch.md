@@ -33,12 +33,6 @@ I hand animated the mechanical switch showing how the mechanism completes a circ
 
 ### PCB (3ds Max)
 
-## Challenges
-The biggest challenge for this project was work and time management. We originally had three group members but one dropped the class halfway through the project timeline with minimal work. My other partner and I needed to quickly adjust to our increased workload while meeting the project goals within our deadline.
-
-## Future Plans
-I plan to print a physical version of my mechanical switch model including a working mechanism and satisfying click with each key stroke.
-
 ## Skills
 - **Software:** Creo, 3DS Max
 - **Soft Skills:** Leadership, Time management

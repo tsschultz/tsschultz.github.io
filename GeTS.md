@@ -12,7 +12,7 @@ nav_order: 2
 ---
 
 ## Overview
-During the summer of 2023, I had the privilege of working at **Genius Traffic System Co. Ltd (GeTS)**, one of Thailand's top traffic technology companies. As a part of the **Research and Development** department, I was tasked with designing and reverse engineering **Printed Circuit Boards (PCBs)**. These PCBs were critical for updating old designs and saving costs by developing in house components. 
+During the summer of 2023, I had the privilege of working at **Genius Traffic System Co. Ltd (GeTS)**, one of Thailand's top traffic technology companies. As a part of the Research and Development department, I was tasked with designing and reverse engineering **Printed Circuit Boards (PCBs)**. These PCBs were critical for updating old designs and saving costs by developing in house components. 
 
 ### PCB Projects
 - **Traffic Light:** This project involved designing and importing a sketch from **Fusion 360** to **Atlium Designer** according specifications. From the sketch I used the geometry to accurately organize the LED array. The PCB was designed to support different colors with the placement of a single resistor in one of two spots. In one spot, the circuit will be in series for a green light while the other spot puts the circuit in parallel for yellow and red lights. This allowed for a single traffic light PCB to support both functions. 
