@@ -10,8 +10,7 @@ nav_order: 1
 </div>
 
 {: .mr-12}
-[LinkedIn](https://www.linkedin.com/in/ty-schultz/){: .btn .btn-outline .mr-4}
-[Resume (PDF)](/assets/basicResume.pdf){: .btn .btn-outline}
+[LinkedIn](https://www.linkedin.com/in/ty-schultz/){: .btn .btn-outline} [Resume (PDF)](/assets/basicResume.pdf){: .btn .btn-outline}
 
 
 Ty Schultz
