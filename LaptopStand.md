@@ -19,7 +19,7 @@ In this course, our team was challenged to design and fabricate an innovative co
 </div>
 
 ## Key Contributions
-For this project, my partner and I designed the original concept using **SolidWorks**, created precision components by **water jetting** aluminum sheet metal, and oversaw the **fabrication** process to ensure quality and accuracy.s
+For this project, my partner and I designed the original concept using **SolidWorks**, created precision components by **water jetting** aluminum sheet metal, and oversaw the **fabrication** process to ensure quality and accuracy.
 
 ## Final CAD Model
 <div style="display: flex; justify-content: center; gap: 20px;">
