@@ -21,8 +21,8 @@ Our team was tasked with designing and developing a product to address a specifi
 In this project, I assumed both project management and design responsibilities. I selected an auger mechanism for dispensing food due to its simplicity, reliability, and consistency. This choice eliminated the need for a complex portioning system, and the reduced component count facilitated easier maintenance. Additionally, I contributed to the design of a mounting system that allows the feeder to be placed either on the ground or suspended above a pond, while also developing a flexible customization solution.
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="assets/koiWIP.jpg" style="height: 250px; width: auto;">
-    <img src="assets/koiInternal.jpg" style="height: 250px; width: auto;">
+    <img src="assets/koiCAD.jpg" style="height: 275px; width: auto;">
+    <img src="assets/koiInternal.jpg" style="height: 275px; width: auto;">
 </div>
 
 ### Key Features and Design Elements
@@ -34,6 +34,10 @@ In this project, I assumed both project management and design responsibilities. 
 </div>
 
 - **Thermocouple Integration:** The inclusion of a thermocouple sensor was critical, as koi fish metabolism significantly slows below 10°C, potentially allowing harmful bacteria to grow in their digestive system when fed. This feature ensures the feeder operates autonomously, requiring no customer intervention beyond refilling the food.
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="assets/koiWIP.jpg" style="height: 300px; width: auto;">
+</div>
 
 - **Programmability:** I developed a Python-based control system that enables users to customize three key parameters: feeding time, food output, and acceptable feeding temperature. This provides customers with full control over their feeder and enables adjustments for different pond sizes and fish populations.
 
