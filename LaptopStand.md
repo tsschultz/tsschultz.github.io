@@ -22,12 +22,6 @@ In this course, our team was challenged to design and fabricate an innovative co
 ## Key Contributions
 My partner and I developed the initial concept using **SolidWorks**, manufactured precision components by **water-cutting** aluminum sheet metal, and oversaw the **fabrication** process to ensure a high-quality product.
 
-## Final CAD Model
-<div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="assets/CADclosed.jpg" alt="Laptop stand closed" style="height: 275px; width: auto;">
-    <img src="assets/CADopen.jpg" alt="Laptop stand open" style="height: 325px; width: auto;">
-</div>
-
 ## Key Features and Design Elements
 - **Cross-Link Mechanism:** This mechanism enables users to easily adjust the stand’s length to fit their device and fold it into a compact form for portability. The cross-link configuration provides smooth operation and maintains structural rigidity under load.
 
@@ -37,7 +31,15 @@ My partner and I developed the initial concept using **SolidWorks**, manufacture
 
 - **Compact Design:** The final product folds down to a sleek profile that fits easily in a bag or large pocket. Despite its compact size, it comfortably supports devices up to 10 lbs, offering a blend of functionality and modern aesthetics.
 
+## Final CAD Model
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="assets/CADclosed.jpg" alt="Laptop stand closed" style="height: 275px; width: auto;">
+    <img src="assets/CADopen.jpg" alt="Laptop stand open" style="height: 325px; width: auto;">
+</div>
+
 ## Final Product
+Through this project, we successfully delivered a functional, user-friendly laptop stand that combines portability, adjustability, and durability. It demonstrates our ability to apply **mechanical design** principles, thoughtful **material selection**, and **ergonomic** considerations to create a practical consumer product.
+
 <div style="display: flex; justify-content: center;">
     <img src="assets/standclosed.jpg" alt="Laptop stand closed" style="height: 300px; width: auto;">
     <img src="assets/standopen.jpg" alt="Laptop stand open" style="height: 300px; width: auto;">
@@ -49,9 +51,6 @@ My partner and I developed the initial concept using **SolidWorks**, manufacture
 <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="assets/twoStands.jpg" alt="Laptop stand closed" style="height: 350px; width: auto;">
 </div>
-
-Through this project, we successfully delivered a functional, user-friendly laptop stand that combines portability, adjustability, and durability. It demonstrates our ability to apply **mechanical design** principles, thoughtful **material selection**, and **ergonomic** considerations to create a practical consumer product.
-
 
 ## Skills & Tools
 - **Software:** SolidWorks, Google Sheets
