@@ -10,28 +10,33 @@ nav_order: 3
 **UC Berkeley** | *August 2023 - December 2023*
 
 ## Overview
-In this course, our team was tasked with reverse engineering, modeling, and animating a mechanical device. The two of us decided to focus on a **mechanical keyboard**. The keyboard was split into 6 main components: the switch, case, stabilizers, keycaps, PCB, and plate.
+In this course, our team was tasked with reverse engineering, modeling, and animating a mechanical device. We decided on showing the spring mechanism of a mechanical switch and assembly process of a full keyboard.
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="assets/switchClosed.jpg" alt="Switch Components" style="height: 325px; width: auto;">
+    <img src="assets/switchClosed2.jpg" style="height: 300px; width: auto;">
+</div>
 
 ## Key Contributions
-Designated tasks to each member with considerations to knowledge of keyboards, experience with programs (Creo, 3ds Max), and availability with respect to other class work. I was responsible for modeling the mechanical switch and keycaps.
+My focus for the project was measuring and modeling the mechanical switch in **Creo** and hand animating in **3ds Max**.
 
 ### Mechanical Keyboard Switch
-The mechanical switch is made up of 6 parts including the bottom and top housing, stem, metal leaf (2 parts), and the spring. The top/bottom housing, stem, and metal leaf were all measured by hand and modeled in **Creo** while the spring was modeled in **3ds Max**.
-
-### Animation
-I hand animated the mechanical switch showing how the mechanism completes a circuit when pressed. I also animated how the entire keyboard is assembled with a real typing test demonstration.
-
-## Final Models
-### Switch (Creo)
-
+The mechanical switch is made up of 6 parts including the bottom and top housing, stem, metal leaf (2 parts), and the spring. I measured all the small details of a mechanical switch using calipers. Ensured that components were not clipping into each other. Due to the animation tools available, I opted to model the spring in 3ds Max instead of Creo.
 
 <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="assets/switchDisplay.jpg" alt="Switch Components" style="height: 325px; width: auto;">
 </div>
 
-### Keycaps (Creo)
+## Final Models
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="assets/bottomHousing.jpg" alt="Switch Components" style="height: 325px; width: auto;">
+    <img src="assets/topHousing.jpg" style="height: 300px; width: auto;">
+</div>
 
-### PCB (3ds Max)
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="assets/stem.jpg" alt="Switch Components" style="height: 325px; width: auto;">
+    <img src="assets/leaf.jpg" style="height: 300px; width: auto;">
+</div>
 
 ## Skills
-- **Software:** Creo, 3DS Max
+- **Software:** Creo, 3ds Max
