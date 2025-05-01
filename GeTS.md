@@ -35,7 +35,7 @@ The PCB was designed to support different colors with different placements of re
 
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="assets/surgeProtectorAD.jpg" style="height: 225px; width: auto;">
+    <img src="assets/surgeProtectorAD.jpg" style="height: 200px; width: auto;">
 </div>
 
 <div style="display: flex; justify-content: center; gap: 20px;">
