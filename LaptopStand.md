@@ -16,11 +16,7 @@ In this course, our team was challenged to design and fabricate an innovative co
 
 <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="assets/laptopOnStand.png" alt="Laptop stand closed" style="height: 300px; width: auto;">
-    <img src="assets/ipadOnStand" alt="Laptop stand open" style="height: 300px; width: auto;">
-</div>
-
-<div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="assets/twoStands.jpg" alt="Laptop stand closed" style="height: 350px; width: auto;">
+    <img src="assets/ipadOnStand.png" alt="Laptop stand open" style="height: 300px; width: auto;">
 </div>
 
 ## Key Contributions
@@ -45,6 +41,12 @@ My partner and I developed the initial concept using **SolidWorks**, manufacture
 <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="assets/standclosed.jpg" alt="Laptop stand closed" style="height: 300px; width: auto;">
     <img src="assets/standopen.jpg" alt="Laptop stand open" style="height: 300px; width: auto;">
+</div>
+
+
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="assets/twoStands.jpg" alt="Laptop stand closed" style="height: 350px; width: auto;">
 </div>
 
 Through this project, we successfully delivered a functional, user-friendly laptop stand that combines portability, adjustability, and durability. It demonstrates our ability to apply **mechanical design** principles, thoughtful **material selection**, and **ergonomic** considerations to create a practical consumer product.
