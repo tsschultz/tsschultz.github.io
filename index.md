@@ -5,7 +5,7 @@ nav_enabled: true
 nav_order: 1
 ---
 <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="assets/profheadshot.jpg" style="height: 275px; width: auto;">
+    <img src="assets/profheadshot.jpg" style="height: 325px; width: auto;">
 </div>
 
 Ty Schultz
