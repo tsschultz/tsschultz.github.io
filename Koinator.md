@@ -25,6 +25,7 @@ In this project, I assumed both project management and design responsibilities. 
     <img src="assets/koiInternal.jpg" style="height: 275px; width: auto;">
 </div>
 
+
 ### Key Features and Design Elements
 - **Customizability:** I designed the four walls of the feeder with slots to accommodate interchangeable plates. This system supports a variety of materials and designs, enabling the feeder to either blend in with or stand out in any koi pond setting.
 
@@ -33,11 +34,13 @@ In this project, I assumed both project management and design responsibilities. 
     <img src="assets/koiPlatesPlaced.jpg" style="height: 275px; width: auto;">
 </div>
 
+
 - **Thermocouple Integration:** The inclusion of a thermocouple sensor was critical, as koi fish metabolism significantly slows below 10°C, potentially allowing harmful bacteria to grow in their digestive system when fed. This feature ensures the feeder operates autonomously, requiring no customer intervention beyond refilling the food.
 
 <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="assets/koiWIP.jpg" style="height: 300px; width: auto;">
 </div>
+
 
 - **Programmability:** I developed a Python-based control system that enables users to customize three key parameters: feeding time, food output, and acceptable feeding temperature. This provides customers with full control over their feeder and enables adjustments for different pond sizes and fish populations.
 
