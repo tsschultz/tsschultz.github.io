@@ -15,6 +15,11 @@ nav_order: 1
 In this course, our team was challenged to design and fabricate an innovative consumer product that addresses a specific problem or need. We chose to improve **ergonomics** by developing a **collapsible laptop stand** that is **adjustable** to accomodate various laptop sizes and **sturdy** enough to support even the heaviest laptops or tablets.
 
 <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="assets/laptopOnStand.png" alt="Laptop stand closed" style="height: 300px; width: auto;">
+    <img src="assets/ipadOnStand" alt="Laptop stand open" style="height: 300px; width: auto;">
+</div>
+
+<div style="display: flex; justify-content: center; gap: 20px;">
     <img src="assets/twoStands.jpg" alt="Laptop stand closed" style="height: 350px; width: auto;">
 </div>
 
