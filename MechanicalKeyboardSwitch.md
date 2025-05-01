@@ -34,6 +34,8 @@ The switch consists of six key components: the top and bottom housings, stem, sp
 </div>
 
 
+
+
 <div style="display: flex; justify-content: center; gap: 40px;">
     <img src="assets/stem.jpg" alt="Switch Components" style="height: 325px; width: auto;">
     <img src="assets/leaf.jpg" style="height: 300px; width: auto;">
