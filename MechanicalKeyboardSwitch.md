@@ -14,7 +14,7 @@ In this course, our team was tasked with reverse engineering, modeling, and anim
 
 <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="assets/switchClosed.jpg" alt="Switch Components" style="height: 325px; width: auto;">
-    <img src="assets/switchClosed2.jpg" style="height: 300px; width: auto;">
+    <img src="assets/switchClosed2.jpg" style="height: 325px; width: auto;">
 </div>
 
 ## Key Contributions
@@ -30,7 +30,7 @@ The switch consists of six key components: the top and bottom housings, stem, sp
 ## Final Models
 <div style="display: flex; justify-content: center; gap: 30px;">
     <img src="assets/bottomHousing.jpg" alt="Switch Components" style="height: 325px; width: auto;">
-    <img src="assets/topHousing.jpg" style="height: 300px; width: auto;">
+    <img src="assets/topHousing.jpg" style="height: 325px; width: auto;">
 </div>
 
 
@@ -38,7 +38,7 @@ The switch consists of six key components: the top and bottom housings, stem, sp
 
 <div style="display: flex; justify-content: center; gap: 40px;">
     <img src="assets/stem.jpg" alt="Switch Components" style="height: 325px; width: auto;">
-    <img src="assets/leaf.jpg" style="height: 300px; width: auto;">
+    <img src="assets/leaf.jpg" style="height: 325px; width: auto;">
 </div>
 
 ## Skills
