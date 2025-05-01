@@ -23,8 +23,8 @@ My partner and I designed the original concept using **SolidWorks**, created pre
 
 ## Final CAD Model
 <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="assets/standclosed.jpg" alt="Laptop stand closed" style="height: 300px; width: auto;">
-    <img src="assets/standopen.jpg" alt="Laptop stand open" style="height: 300px; width: auto;">
+    <img src="assets/CADstandClosed.png" alt="Laptop stand closed" style="height: 300px; width: auto;">
+    <img src="assets/CADstandOpen.png" alt="Laptop stand open" style="height: 300px; width: auto;">
 </div>
 
 ## Key Features and Design Elements
