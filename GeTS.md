@@ -35,7 +35,7 @@ The PCB was designed to support different colors with different placements of re
 
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="assets/surgeProtectorAD.jpg" style="height: 275px; width: auto;">
+    <img src="assets/surgeProtectorAD.jpg" style="height: 225px; width: auto;">
 </div>
 
 <div style="display: flex; justify-content: center; gap: 20px;">
@@ -50,11 +50,11 @@ The PCB was designed to support different colors with different placements of re
 - **CPU Tester:** The CPU tester's function, as the name suggests, was for the company to check their machines were working properly. This was by far the most complicated design with a large number of different electical components and new footprints that needed to be made. 
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="assets/CPUtest1.jpg" style="height: 325px; width: auto;">
+    <img src="assets/CPUtest1.jpg" style="height: 375px; width: auto;">
 </div>
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="assets/CPUtest2.jpg" style="height: 325px; width: auto;">
+    <img src="assets/CPUtest2.jpg" style="height: 275px; width: auto;">
 </div>
 
 ## Challenges
