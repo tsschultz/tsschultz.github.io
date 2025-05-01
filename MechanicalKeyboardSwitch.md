@@ -10,7 +10,7 @@ nav_order: 3
 **UC Berkeley** | *August 2023 - December 2023*
 
 ## Overview
-In this course, our team was tasked with reverse engineering, modeling, and animating a mechanical device. We decided on showing the spring mechanism of a mechanical switch and assembly process of a full keyboard.
+In this course, our team was tasked with reverse engineering, modeling, and animating a mechanical device. We chose to illustrate the internal spring mechanism of a mechanical keyboard switch, along with the assembly process of a complete keyboard.
 
 <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="assets/switchClosed.jpg" alt="Switch Components" style="height: 325px; width: auto;">
@@ -18,10 +18,10 @@ In this course, our team was tasked with reverse engineering, modeling, and anim
 </div>
 
 ## Key Contributions
-My focus for the project was measuring and modeling the mechanical switch in **Creo** and hand animating in **3ds Max**.
+My primary responsibilities included precise measurement and 3D modeling of the mechanical switch using **Creo**, as well as hand-animating the mechanism in **3ds Max**.
 
 ### Mechanical Keyboard Switch
-The mechanical switch is made up of 6 parts including the bottom and top housing, stem, metal leaf (2 parts), and the spring. I measured all the small details of a mechanical switch using calipers. Ensured that components were not clipping into each other. Due to the animation tools available, I opted to model the spring in 3ds Max instead of Creo.
+The switch consists of six key components: the top and bottom housings, stem, spring, and a two-part metal leaf. I used precision calipers for all relevant dimensions and ensured proper clearance to avoid part interference. Due to animation requirements and tool limitations, I modeled the spring directly in 3ds Max to optimize motion accuracy.
 
 <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="assets/switchDisplay.jpg" alt="Switch Components" style="height: 325px; width: auto;">
