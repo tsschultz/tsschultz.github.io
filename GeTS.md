@@ -51,6 +51,9 @@ The PCB was designed to support different colors with different placements of re
 
 <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="assets/CPUtest1.jpg" style="height: 325px; width: auto;">
+</div>
+
+<div style="display: flex; justify-content: center; gap: 20px;">
     <img src="assets/CPUtest2.jpg" style="height: 325px; width: auto;">
 </div>
 
