@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Internship: GeTS"
-nav_enabled: true
+nav_enabled: false
 nav_order: 2
 ---
 

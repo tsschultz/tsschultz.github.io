@@ -3,8 +3,9 @@ description: This portfolio exhibits my work and experience from my time in univ
 theme: just-the-docs
 nav_enabled: false
 
-url: https://tsschultz.github.io
+url: https://tsschultz.github.io/
 
 aux_links:
+  Home Page: https://tsschultz.github.io/
   LinkedIn: https://www.linkedin.com/in/ty-schultz/
   Github: https://github.com/tsschultz
