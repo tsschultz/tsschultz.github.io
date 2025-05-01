@@ -11,15 +11,15 @@ nav_order: 1
 
 ---
 
-## Overview
-In this course, our team was challenged to design and fabricate an innovative consumer product that addresses a specific problem or need. Our group decided to focus on improving **ergonomics** by creating a **laptop stand** that is **collapsible** for portability, **adjustable** to accomodate various laptop sizes, and **sturdy** enough to support even the heaviest laptops or tablets.
-
 <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="assets/twoStands.jpg" alt="Laptop stand closed" style="height: 375px; width: auto;">
 </div>
 
+## Overview
+In this course, our team was challenged to design and fabricate an innovative consumer product that addresses a specific problem or need. Our group decided to focus on improving **ergonomics** by creating a **laptop stand** that is **collapsible** for portability, **adjustable** to accomodate various laptop sizes, and **sturdy** enough to support even the heaviest laptops or tablets.
+
 ## Key Contributions
-For this project, my partner and I designed the original concept using **SolidWorks**, created precision components by **water jetting** aluminum sheet metal, and oversaw the **fabrication** process to ensure quality and accuracy.
+My partner and I designed the original concept using **SolidWorks**, created precision components by **water jetting** aluminum sheet metal, and oversaw the **fabrication** process to ensure quality and accuracy.
 
 ## Final CAD Model
 <div style="display: flex; justify-content: center; gap: 20px;">

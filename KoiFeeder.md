@@ -10,19 +10,20 @@ nav_order: 2
 **UC Berkeley** | *January 2023 - May 2023*
 
 ## Overview
-**change this section** Our team was tasked with addressing a need, not a solution, ... design a product and develope the basis for a company. This included analyzing competing products, reviewing patents, intterating and improving upon known solutions, surveying potential customers, and present our final product.
-
-Research and development, conceptualization and design, prototyping, production and launch
+Our team was tasked with developing a product to address a specific problem or need. This process involved contacting potential customers, researching competing products, and manufacturing a working prototype.
 
 ## Key Contributions
-In this project I took on a project management role with allocating work based on each member's strenghts, overseeing communication with potential customers, and ensuring that we reach our timeline goals. I was greatly involved in the design process of our koi feeder as well as the final CAD model.
+In this project I took on a project management and design role. I decided on an auger mechanism for dispensing food due to its simplicity, reliability, and consistency. This alleviated the need for designing a portioning system and allowing quick fixes with fewer components. I helped with designing the mounting system where the feeder can either be placed on the ground or hung up above a pond as well as the developing a customization solution.
 
-### Key Features and Desgin Elements
-- **Customizable:** We designed the feeder to be easily customizable to tailor to our customers preferences. This allows for the feeder to blend in or stand out in any koi pond.
-- **Thermocouple:** Koi fish metabolism drastically slows down in cold temperatures so it can be hamrful or even lethal if fed during cold seasons. The thermocouple is necessary for our design to account for cold temperatures ensurring that the koi are not accidentally fed.
-- **Programmable:** Customers are able to input the time and amount of fed to their koi. This allows customers full control over their feeder and account for the size and number of fish in their pond.
+### Key Features and Design Elements
+- **Customizable:** I designed the four walls of the feeder with slots to hold interchangeable plates. This system supports any material plate and design to help the feeder blend in or stand out in any koi pond.
+
+- **Thermocouple:** This sensor was a necessary choice because koi fish metabolism drastically slows below 10 degrees Celsius, allowing harmful bacteria to grow in their digestive tract when fed. This inclusion also allows the koi feeder full autonomy without customer input beyond reloading food.
+
+- **Programmable:** Using Python, we programmed three controls for users; feeding time, food output, and allowed feeding temperature. These measures give customers full control over their feeder and koi pond needs. These factors help account for any size pond and number of fish.
 
 ### Final Product
 
 ## Skills
-- **Software:** SolidWorks, MS Office
+- **Software:** SolidWorks, Python, MS Office, MS Excel
+- **Tools:** 3D Printing, Laser Cutting, Laser Engraving
