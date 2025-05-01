@@ -30,18 +30,22 @@ The PCB was designed to support different colors with different placements of re
     <img src="assets/trafficLight.jpg" style="height: 325px; width: auto;">
 </div>
 
+
 - **Surge Protector:** The company tasked me to reverse engineer an existing surge protector product used for their traffic lights and cameras. Designing and manufacturing our own component would save the company an estimated 80% on third-party products. This PCB required new footprints for a number of electric components which were added to the company's library for future use.
 
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="assets/surgeProtectorAD.jpg" style="height: 325px; width: auto;">
+    <img src="assets/surgeProtectorAD.jpg" style="height: 275px; width: auto;">
 </div>
-
 
 <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="assets/spFront.jpg" style="height: 325px; width: auto;">
+</div>
+
+<div style="display: flex; justify-content: center; gap: 20px;">
     <img src="assets/spBack.jpg" style="height: 325px; width: auto;">
 </div>
+
 
 - **CPU Tester:** The CPU tester's function, as the name suggests, was for the company to check their machines were working properly. This was by far the most complicated design with a large number of different electical components and new footprints that needed to be made. 
 
