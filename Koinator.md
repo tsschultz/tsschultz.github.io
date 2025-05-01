@@ -30,6 +30,7 @@ In this project, I assumed both project management and design responsibilities. 
 
 <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="assets/koiPlates.jpg" style="height: 275px; width: auto;">
+    <img src="assets/koiPlatesPlaced.jpg" style="height: 275px; width: auto;">
 </div>
 
 - **Thermocouple Integration:** The inclusion of a thermocouple sensor was critical, as koi fish metabolism significantly slows below 10°C, potentially allowing harmful bacteria to grow in their digestive system when fed. This feature ensures the feeder operates autonomously, requiring no customer intervention beyond refilling the food.
