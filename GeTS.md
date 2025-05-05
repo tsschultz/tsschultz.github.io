@@ -63,4 +63,3 @@ The PCB was engineered to support multiple colors using different resistor confi
 ## Skills & Tools
 - **Software Proficiency:** Fusion 360, Altium Designer.
 - **Interpersonal Skills:** Professional and technical communication in Thai and English, Working under deadlines.
-- **Fabrication:** Soldering
