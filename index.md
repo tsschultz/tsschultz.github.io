@@ -16,5 +16,5 @@ Mechanical Engineering graduate from the University of California, Berkeley, wit
 [LinkedIn](https://www.linkedin.com/in/ty-schultz/){: .btn .btn-outline .nr-4} [Resume (PDF)](/assets/TySchultz_Resume.pdf){: .btn .btn-outline}
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="assets/re.jpg" style="height: 900px; width: auto;">
+    <img src="assets/resume.jpg" style="height: 400px; width: auto;">
 </div>
