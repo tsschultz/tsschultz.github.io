@@ -12,10 +12,10 @@ nav_order: 2
 ---
 
 ## Overview
-During the summer of 2023, I had the privilege of working at **Genius Traffic System Co. Ltd (GeTS)**, one of Thailand's top traffic technology companies. As a part of the Research and Development department, I was tasked with designing and reverse engineering **Printed Circuit Boards (PCBs)**. These PCBs were critical for updating old designs and saving costs by developing in house components. 
+During the summer of 2023, I had the opportunity to work at **Genius Traffic System Co. Ltd. (GeTS)**, one of Thailand’s leading traffic technology companies. As part of the Research and Development team, I was responsible for designing **Printed Circuit Boards (PCBs)** used in traffic infrastructure systems. These projects were crucial in modernizing legacy designs and reducing costs by developing in-house components.
 
 ### PCB Projects
-- **Traffic Light:** This project involved designing and importing a sketch from **Fusion 360** to **Atlium Designer** according specifications. From the sketch, I used the geometry to accurately organize the LED array.
+- **Traffic Light:** This project involved designing a PCB for a traffic light system. I imported the initial sketch from **Fusion 360** into **Altium Designer**, then used the geometry to accurately lay out the LED array.
 
 
 <div style="display: flex; justify-content: center; gap: 20px;">
@@ -23,7 +23,7 @@ During the summer of 2023, I had the privilege of working at **Genius Traffic Sy
     <img src="assets/tlHousing.jpg" style="height: 325px; width: auto;">
 </div>
 
-The PCB was designed to support different colors with different placements of resistors. This placement determined whether the circuit was in series or in parallel. The series circuit supported yellow and red light while the parallel circuit supported green light. This allowed for a single traffic light PCB to support all necessary functions.
+The PCB was engineered to support multiple colors using different resistor configurations. Series circuits powered the red and yellow LEDs, while a parallel configuration was used for the green LEDs. This allowed a single board to accommodate all necessary traffic light functions efficiently.
 
 <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="assets/tlADresistor.jpg" style="height: 325px; width: auto;">
@@ -31,7 +31,7 @@ The PCB was designed to support different colors with different placements of re
 </div>
 
 
-- **Surge Protector:** The company tasked me to reverse engineer an existing surge protector product used for their traffic lights and cameras. Designing and manufacturing our own component would save the company an estimated 80% on third-party products. This PCB required new footprints for a number of electric components which were added to the company's library for future use.
+- **Surge Protector:** I was tasked with reverse engineering a commercial surge protector used in the company's traffic light and camera systems. By redesigning the component in-house, the company projected a **cost savings by approximately 80%** compared to third-party options. This project required creating **custom footprints** for electrical components, which I then added to the company’s component library for future use.
 
 
 <div style="display: flex; justify-content: center; gap: 20px;">
@@ -47,7 +47,7 @@ The PCB was designed to support different colors with different placements of re
 </div>
 
 
-- **CPU Tester:** The CPU tester's function, as the name suggests, was for the company to check their machines were working properly. This was by far the most complicated design with a large number of different electical components and new footprints that needed to be made. 
+- **CPU Tester:** The most technically complex project involved designing a CPU testing board used internally to verify the functionality of GeTS machinery. The design required integration of a wide variety of electrical components, many of which had no existing footprints. I created several new component models to support this design and optimized the layout for test functionality.
 
 <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="assets/CPUtest1.jpg" style="height: 375px; width: auto;">
@@ -58,9 +58,7 @@ The PCB was designed to support different colors with different placements of re
 </div>
 
 ## Challenges
-**change this** Learning an entirely new field (PCBs) and learning a new program (Altium Designer) on my own
-
-Technical communication through Thai
+**change this** One of the biggest challenges was learning an entirely new domain—**PCB design**—with no prior experience. I taught myself **Altium Designer** in a short time to meet project deadlines and deliver working designs. In addition, I navigated **technical communication in Thai**, further developing my ability to work across language barriers in a professional engineering environment.
 
 ## Skills & Tools
 - **Software Proficiency:** Fusion 360, Altium Designer.
