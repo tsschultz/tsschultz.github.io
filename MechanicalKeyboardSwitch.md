@@ -28,7 +28,7 @@ The switch consists of six key components: the top and bottom housings, stem, sp
 </div>
 
 ## Final Models
-<div style="display: flex; justify-content: center; gap: 30px;">
+<div style="display: flex; justify-content: center;">
     <img src="assets/bottomHousing.jpg" alt="Switch Components" style="height: 325px; width: auto;">
     <img src="assets/topHousing.jpg" style="height: 325px; width: auto;">
 </div>
@@ -36,7 +36,7 @@ The switch consists of six key components: the top and bottom housings, stem, sp
 
 
 
-<div style="display: flex; justify-content: center; gap: 40px;">
+<div style="display: flex; justify-content: center;">
     <img src="assets/stem.jpg" alt="Switch Components" style="height: 325px; width: auto;">
     <img src="assets/leaf.jpg" style="height: 325px; width: auto;">
 </div>
