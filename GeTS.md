@@ -58,7 +58,7 @@ The PCB was engineered to support multiple colors using different resistor confi
 </div>
 
 ## Challenges
-**change this** One of the biggest challenges was learning an entirely new domain—**PCB design**—with no prior experience. I taught myself **Altium Designer** in a short time to meet project deadlines and deliver working designs. In addition, I navigated **technical communication in Thai**, further developing my ability to work across language barriers in a professional engineering environment.
+One of the biggest challenges was learning an entirely new domain—**PCB design**—with no prior experience. I taught myself **Altium Designer** in a short time to meet project deadlines and deliver working designs. In addition, I navigated **technical communication in Thai**, further developing my ability to work across language barriers in a professional engineering environment.
 
 ## Skills & Tools
 - **Software Proficiency:** Fusion 360, Altium Designer.
