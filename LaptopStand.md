@@ -18,7 +18,7 @@ nav_order: 1
 
 
 ## Overview
-In this course, our team was challenged to design and fabricate an innovative consumer product that addresses a specific problem or need. We chose to improve ergonomics by developing a **collapsible laptop stand** that is **adjustable** to accomodate various laptop sizes and **sturdy** enough to support even the heaviest laptops or tablets.
+In this course, our team was challenged to design and fabricate an innovative consumer product that addresses a specific problem or need. We chose to improve ergonomics by developing a **collapsible laptop stand** that is **adjustable** to accommodate various laptop sizes and **sturdy** enough to support even the heaviest laptops or tablets.
 ## Key Contributions
 My partner and I developed the initial concept using **SolidWorks**, manufactured precision components by **water-cutting** aluminum sheet metal, and oversaw the **fabrication** process to ensure a high-quality product.
 
